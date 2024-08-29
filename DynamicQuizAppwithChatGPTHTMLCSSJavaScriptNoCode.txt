@@ -1,0 +1,18 @@
+Create a profesionaling quiz app using HTML, CSS Rockstrap add 15 dyrumically data. Design Layout with a clean header, a section for que questions and a submit turnon uyu the apping Boot го потропин and looks modern Apply the Poppins font to enhance the visual appeal Ensure that the qui displays multiple choice questions and allows to select aweswers.
+
+make 3 files html css js
+
+at least 6 questions add then show 3 questions per page and add the previous met button
+
+the test app looks so messy add some colors, animations, transitions and select items the animated test box is so congested make it wider changed title fonts to look like a modern test app next previous buttons look awesome too alert bar changed to bootstrap modal show in center
+
+Add a countdown timer slong with a progrest bar that decretat time proges. When the time espins, play indicating that time is a mieng the user that they have fallendal anesunaging them to try again next time
+
+
+
+
+
+
+
+
+

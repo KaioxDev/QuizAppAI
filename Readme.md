@@ -37,3 +37,33 @@ Abra o arquivo index.html no seu navegador.
 As perguntas aparecerão dinamicamente, e após selecionar as respostas, você poderá clicar em "Enviar" para ver seu resultado.
 
 Se precisar de algo mais, estarei por aqui!
+
+o aplicativo de teste parece tão bagunçado adicione algumas cores, animações, transições e itens selecionados a caixa de teste animada está tão congestionada torne-a mais larga fontes de título alteradas para parecer um aplicativo de teste moderno botões anteriores próximos parecem impressionantes também barra de alerta alterada para o modal bootstrap mostrar no centro
+
+Para modernizar o aplicativo de teste, vou fazer as seguintes alterações:
+
+Cores: Adicionaremos uma paleta de cores suaves e modernas para melhorar a estética.
+
+Animações e Transições: Elementos como o contêiner de perguntas e botões terão animações suaves de entrada e hover.
+
+Layout Melhorado: Aumentaremos a largura do contêiner para melhorar o espaço visual e o conforto.
+
+Fonte do Título: Usaremos uma fonte mais impactante para o título.
+
+Botões de Navegação: Os botões "Anterior" e "Próximo" terão uma aparência mais impressionante, com animações ao passar o mouse.
+
+Modal Bootstrap: Em vez de usar um alerta, exibiremos o resultado em um modal centralizado e estilizado.
+
+Aqui está o código atualizado:
+
+Adicione um cronômetro de contagem regressiva com uma barra de progresso que indica o tempo que passa. Quando o tempo passa, toque para indicar que o tempo está passando e peça para o usuário tentar novamente na próxima vez.
+
+
+
+
+
+
+
+
+
+
